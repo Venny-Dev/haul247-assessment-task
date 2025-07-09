@@ -27,7 +27,8 @@ Built with **Tailwind CSS** and **Leaflet.js**.
 
 ## 📷 Demo
 
-![Dashboard Screenshot](./public/screenshots/dashboard.png)
+![Dashboard Screenshot](./public/dashboard-screenshot.png)
+![Map Screenshot](./public/map-screenshot.png)
 
 ---
 
