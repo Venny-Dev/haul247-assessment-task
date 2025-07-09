@@ -26,7 +26,8 @@ Built with **Tailwind CSS** and **Leaflet.js**.
 
 ## 📷 Demo
 
-![Dashboard Screenshot](./public/dashboard-screenshot.png)
+Dashboard Screenshot
+![image alt](https://github.com/Venny-Dev/haul247-assessment-task/blob/main/public/dashboard-screenshot.png?raw=true)
 ![Map Screenshot](./public/map-screenshot.png)
 
 ---
