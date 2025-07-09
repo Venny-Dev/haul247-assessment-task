@@ -28,6 +28,8 @@ Built with **Tailwind CSS** and **Leaflet.js**.
 
 Dashboard Screenshot
 ![image alt](https://github.com/Venny-Dev/haul247-assessment-task/blob/main/public/dashboard-screenshot.png?raw=true)
+
+Map Screenshot
 ![Map Screenshot](./public/map-screenshot.png)
 
 ---
