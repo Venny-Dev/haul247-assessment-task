@@ -1,4 +1,3 @@
-```markdown
 # 🚚 Logistics Fleet Dashboard
 
 A simple **Next.js** (App Router) application built for a logistics company to:
@@ -54,6 +53,7 @@ Built with **Tailwind CSS** and **Leaflet.js**.
 ---
 
 ## 📂 File Structure
+
 ```
 
 .
@@ -97,7 +97,7 @@ Built with **Tailwind CSS** and **Leaflet.js**.
 ├── next.config.js
 └── package.json
 
-````
+```
 
 ---
 
@@ -107,6 +107,8 @@ Built with **Tailwind CSS** and **Leaflet.js**.
    ```bash
    git clone https://github.com/Venny-Dev/haul247-assessment-task.git
    cd haul247-assessment-task
+   ```
+
 ````
 
 2. **Install dependencies**
@@ -152,3 +154,4 @@ Example response:
   }
 ]
 ```
+````
